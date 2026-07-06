@@ -17,4 +17,5 @@ I am also interested in open-source software and enjoy exploring and contributin
 
 
 ## Connect
-- **Email:** [Email](mailto:amiraliesmaili741@gmail.com)
+
+[![Email](https://img.shields.io/badge/Gmail-amiraliesmaeli741%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiraliesmaeli741@gmail.com)
