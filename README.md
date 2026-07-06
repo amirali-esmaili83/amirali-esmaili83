@@ -17,5 +17,4 @@ I am also interested in open-source software and enjoy exploring and contributin
 
 
 ## Connect
-- **Profile:** [Portfolio](https://amirali-esmaili83.github.io)
 - **Email:** [Email](mailto:amiraliesmaili741@gmail.com)
